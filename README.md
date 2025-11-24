@@ -14,11 +14,11 @@ Repository Structure
 ├── data/
 │   └── medical_insurance.csv    # Raw dataset used for analysis
 ├── scripts/
-│   └── Pricing_Segmentation.sql # SQL scripts for data cleaning & KPI calculation
+│   └── Pricing_Analysis.sql # SQL scripts for data cleaning & KPI calculation
 ├── dashboard/
-│   └── Portfolio_Dashboard.pbix # Power BI interactive report file
+│   └── Medical_Insurance_Loss_Ratio_Dashboard.p-bix # Power BI interactive report file
 ├── images/
-│   └── dashboard_preview.png    # Screenshots of the final dashboard
+│   └── 1.png & 2.png   # Screenshots of the final dashboard
 └── README.md                    # Project documentation
 
 Methodology & Technical Approach
