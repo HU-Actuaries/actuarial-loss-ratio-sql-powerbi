@@ -41,13 +41,6 @@ Key Insights
 > 
  * Smoker Impact: Policyholders who smoke have a claim severity roughly higher than non-smokers, necessitating a premium loading review.
  * Demographic Risk: While older groups have higher claim frequency, the young smoker demographic poses a unique profitability challenge due to lower base premiums but unexpectedly high claim spikes.
-Dashboard Preview
-(Please verify the image path below corresponds to your uploaded screenshot)
-Figure 1: Interactive Loss Ratio Analysis Dashboard
-Future Work
-To further enhance this project, the following steps are planned:
- * Predictive Modeling: Implementing a GLM (Generalized Linear Model) in R or Python to predict future claim costs.
- * Actuarial IBNR: Calculating "Incurred But Not Reported" reserves if claim occurrence dates become available.
 Authors
  * [kuurtali] - Data Engineering & SQL Analysis
  * [mirhankardes] - Visualization & BI Development
