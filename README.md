@@ -50,5 +50,5 @@ To further enhance this project, the following steps are planned:
  * Actuarial IBNR: Calculating "Incurred But Not Reported" reserves if claim occurrence dates become available.
 Authors
  * [kuurtali] - Data Engineering & SQL Analysis
- * [] - Visualization & BI Development
+ * [mirhankardes] - Visualization & BI Development
 Disclaimer: This project is for academic/portfolio purposes and uses a sample dataset.
